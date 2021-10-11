@@ -1,2 +1,2 @@
 # soft_adversarial
-Towards Adversarial Robustness forMulti-mode Data Through MetricLearning
+Towards Adversarial Robustness for Multi-mode Data Through Metric Learning
